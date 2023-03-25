@@ -1,0 +1,6 @@
+2023-03-21 19:37:17:3717) - [31merror[39m: [31mnão foi possivel conectar![39m
+2023-03-22 19:19:19:1919) - [31merror[39m: [31mErro no sistema movie.delete is not a function[39m
+2023-03-22 19:22:36:2236) - [31merror[39m: [31mErro no sistema movie.delete is not a function[39m
+2023-03-22 19:22:40:2240) - [31merror[39m: [31mErro no sistema movie.delete is not a function[39m
+2023-03-22 19:23:39:2339) - [31merror[39m: [31mErro no sistema Cast to ObjectId failed for value "641a66bc8f2f9e67e5ce20c" (type string) at path "_id" for model "Movie"[39m
+2023-03-22 19:43:42:4342) - [31merror[39m: [31mErro no sistema Cast to ObjectId failed for value "641a66bc8f2f9e67e5ce20c" (type string) at path "_id" for model "Movie"[39m

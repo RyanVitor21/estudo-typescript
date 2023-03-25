@@ -1,0 +1,105 @@
+2023-03-16 22:27:50:2750) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-16 22:32:49:3249) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-16 22:32:49:3249) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-16 22:37:21:3721) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-16 22:37:21:3721) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-16 23:38:31:3831) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-16 23:38:31:3831) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-16 23:40:58:4058) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-16 23:40:58:4058) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-16 23:42:42:4242) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-16 23:42:42:4242) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-16 23:46:59:4659) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-16 23:46:59:4659) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-17 00:06:18:618) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-17 00:06:18:618) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-17 00:10:04:104) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-17 00:10:04:104) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-17 00:23:43:2343) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-17 00:23:43:2343) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-17 00:23:59:2359) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-17 00:23:59:2359) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-17 00:24:05:245) - [35mhttp[39m: [35mGET /api/test 200 12 - 3.243 ms[39m
+[35m[39m
+2023-03-17 00:24:07:247) - [35mhttp[39m: [35mGET /api/test 200 12 - 0.835 ms[39m
+[35m[39m
+2023-03-17 00:24:08:248) - [35mhttp[39m: [35mGET /api/test 200 12 - 0.775 ms[39m
+[35m[39m
+2023-03-17 00:24:09:249) - [35mhttp[39m: [35mGET /api/test 200 12 - 0.733 ms[39m
+[35m[39m
+2023-03-17 01:00:05:05) - [35mhttp[39m: [35mPOST /api/movie 404 149 - 4.367 ms[39m
+[35m[39m
+2023-03-17 01:00:31:031) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-17 01:00:31:031) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-17 01:00:38:038) - [35mhttp[39m: [35mPOST /api/movie 200 22 - 3.660 ms[39m
+[35m[39m
+2023-03-21 19:37:17:3717) - [31merror[39m: [31mnão foi possivel conectar![39m
+2023-03-21 19:44:18:4418) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-21 19:44:18:4418) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-21 20:34:00:340) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-21 20:34:00:340) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-21 21:29:34:2934) - [35mhttp[39m: [35mPOST /api/movie 201 131 - 102.685 ms[39m
+[35m[39m
+2023-03-21 21:30:29:3029) - [35mhttp[39m: [35mPOST /api/movie 201 131 - 76.529 ms[39m
+[35m[39m
+2023-03-21 21:31:34:3134) - [35mhttp[39m: [35mPOST /api/movie 201 155 - 76.645 ms[39m
+[35m[39m
+2023-03-21 22:41:19:4119) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-21 22:41:19:4119) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-21 23:18:58:1858) - [35mhttp[39m: [35mPOST /api/movie 201 473 - 107.630 ms[39m
+[35m[39m
+2023-03-21 23:23:56:2356) - [35mhttp[39m: [35mPOST /api/movie 201 473 - 79.742 ms[39m
+[35m[39m
+2023-03-22 17:53:23:5323) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 17:53:23:5323) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 18:08:56:856) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 18:08:56:856) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 18:31:50:3150) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 18:31:50:3150) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 18:32:05:325) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 18:32:05:325) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 18:46:18:4618) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 18:46:18:4618) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 18:53:20:5320) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 18:53:20:5320) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 19:07:13:713) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 19:07:13:713) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 19:11:57:1157) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 19:11:57:1157) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 19:14:00:140) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 19:14:00:140) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 19:19:19:1919) - [31merror[39m: [31mErro no sistema movie.delete is not a function[39m
+2023-03-22 19:19:19:1919) - [35mhttp[39m: [35mDELETE /api/movie/641a66bc8f2f9e67e5ce20ce 500 39 - 99.902 ms[39m
+[35m[39m
+2023-03-22 19:22:16:2216) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 19:22:16:2216) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 19:22:19:2219) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 19:22:19:2219) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 19:22:23:2223) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 19:22:23:2223) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 19:22:36:2236) - [31merror[39m: [31mErro no sistema movie.delete is not a function[39m
+2023-03-22 19:22:36:2236) - [35mhttp[39m: [35mDELETE /api/movie/641a66bc8f2f9e67e5ce20ce 500 39 - 94.374 ms[39m
+[35m[39m
+2023-03-22 19:22:40:2240) - [31merror[39m: [31mErro no sistema movie.delete is not a function[39m
+2023-03-22 19:22:40:2240) - [35mhttp[39m: [35mDELETE /api/movie/641a66bc8f2f9e67e5ce20ce 500 39 - 71.483 ms[39m
+[35m[39m
+2023-03-22 19:23:39:2339) - [31merror[39m: [31mErro no sistema Cast to ObjectId failed for value "641a66bc8f2f9e67e5ce20c" (type string) at path "_id" for model "Movie"[39m
+2023-03-22 19:23:39:2339) - [35mhttp[39m: [35mDELETE /api/movie/641a66bc8f2f9e67e5ce20c 500 39 - 7.763 ms[39m
+[35m[39m
+2023-03-22 19:40:22:4022) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 19:40:22:4022) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 19:43:37:4337) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 19:43:37:4337) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 19:43:42:4342) - [31merror[39m: [31mErro no sistema Cast to ObjectId failed for value "641a66bc8f2f9e67e5ce20c" (type string) at path "_id" for model "Movie"[39m
+2023-03-22 19:43:42:4342) - [35mhttp[39m: [35mDELETE /api/movie/641a66bc8f2f9e67e5ce20c 500 39 - 15.117 ms[39m
+[35m[39m
+2023-03-22 19:44:40:4440) - [35mhttp[39m: [35mPOST /api/movie 201 474 - 95.867 ms[39m
+[35m[39m
+2023-03-22 19:45:26:4526) - [35mhttp[39m: [35mDELETE /api/movie/641b84d8c9b3a3350435c669 200 36 - 149.084 ms[39m
+[35m[39m
+2023-03-22 19:59:56:5956) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 19:59:56:5956) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 20:00:36:036) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 20:00:36:036) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
+2023-03-22 22:47:21:4721) - [32minfo[39m: [32mconectou ao banco de dados![39m
+2023-03-22 22:47:21:4721) - [32minfo[39m: [32maplicação esta funcionando na porta: 3000[39m
