@@ -35,8 +35,4 @@ app.listen(3000, async () => {
     Logger.info(`aplicação esta funcionando na porta: ${port}`);
 })
 
-
-
-
-
-
+export default app;
